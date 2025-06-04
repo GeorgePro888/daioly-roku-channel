@@ -1,0 +1,13 @@
+.DS_Store
+out/
+.project
+.buildpath
+.settings/
+.tags1
+.tags
+Makefile
+
+.vs
+build-and-deploy.sh
+.env
+

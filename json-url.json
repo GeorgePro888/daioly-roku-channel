@@ -1,0 +1,104 @@
+{
+    "providerName": "A special streaming service exclusive to skating, surfing, and snowboarding",
+    "lastUpdated": "2024-11-14T00:02:09+00:00",
+    "language": "en-US",
+    "movies": [
+        {
+            "id": "5487",
+            "title": "Welcome to Daioly",
+            "content": {
+                "dateAdded": "2020-12-04T20:27:27+00:00",
+                "videos": [
+                    {
+                        "url": "https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/Welcome.mp4",
+                        "quality": "SD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 66,
+                "language": "en-US"
+            },
+            "credit": [],
+            "genres": [
+                "sports"
+            ],
+            "tags": [
+                "No Category"
+            ],
+            "thumbnail": "https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/thumbnail-Welcome-800x450.jpg",
+            "releaseDate": "2020-12-04",
+            "shortDescription": "Welcome to Daioly! We invite you to submit your best Experience of your lifestyle to us! If you are a lifestyle lover visit Daioly.com and send to us your Vision! Wave your Lifestyle! Go to daioly. [fwdevp preset_id=\"Daioly-tv\" video_path=\"{source:'https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/Welcome.mp4', label:'1080', videoType:'normal', isPrivate:'no'}\" start_at_video=\"1\" playback_rate_speed=\"1\" poster_path=\"https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/thumbnail-Welcome.jpg\"]",
+            "longDescription": "Welcome to Daioly! We invite you to submit your best Experience of your lifestyle to us! If you are a lifestyle lover visit Daioly.com and send to us your Vision! Wave your Lifestyle! Go to daioly. [fwdevp preset_id=\"Daioly-tv\" video_path=\"{source:'https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/Welcome.mp4', label:'1080', videoType:'normal', isPrivate:'no'}\" start_at_video=\"1\" playback_rate_speed=\"1\" poster_path=\"https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/thumbnail-Welcome.jpg\"]"
+        },
+        {
+            "id": "5463",
+            "title": "Solve in Venice Beach (LA) 2020",
+            "content": {
+                "dateAdded": "2020-12-03T04:28:10+00:00",
+                "videos": [
+                    {
+                        "url": "https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/Solve-in-Venice-Beach-2020.mp4",
+                        "quality": "FHD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 66,
+                "language": "en-US"
+            },
+            "credit": [],
+            "genres": [
+                "sports"
+            ],
+            "tags": [
+                "Solve",
+                "street art",
+                "USA",
+                "Venice Beach"
+            ],
+            "thumbnail": "https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/thumbnail-Solve-2-800x450.jpg",
+            "releaseDate": "2020-12-03",
+            "shortDescription": "Introducing an Amazing Graffiti artist based in Los Angeles. Solve is one of the best new age graffiti artist that involve this movement in LA. Solve's style is the most clean & sharp. @freaksol Follow IG [fwdevp preset_id=\"Daioly-tv\" video_path=\"{source:'https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/Solve-in-Venice-Beach-2020.mp4', label:'1080', videoType:'normal', isPrivate:'no'}\" start_at_video=\"1\" playback_rate_speed=\"1\" poster_path=\"https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/thumbnail-Solve-2.jpg\"]",
+            "longDescription": "Introducing an Amazing Graffiti artist based in Los Angeles. Solve is one of the best new age graffiti artist that involve this movement in LA. Solve's style is the most clean & sharp. @freaksol Follow IG [fwdevp preset_id=\"Daioly-tv\" video_path=\"{source:'https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/Solve-in-Venice-Beach-2020.mp4', label:'1080', videoType:'normal', isPrivate:'no'}\" start_at_video=\"1\" playback_rate_speed=\"1\" poster_path=\"https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/thumbnail-Solve-2.jpg\"]"
+        }
+    ],
+    "shortFormVideos": [
+        {
+            "id": "5457",
+            "title": "Daioly",
+            "content": {
+                "dateAdded": "2020-12-01T07:17:32+00:00",
+                "videos": [
+                    {
+                        "url": "https:\/\/daioly.com\/wp-content\/uploads\/2020\/11\/Comp-1.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 65,
+                "language": "en-US",
+                "validityPeriodStart": "2020-11-27",
+                "validityPeriodEnd": ""
+            },
+            "credit": [],
+            "genres": [
+                "sports"
+            ],
+            "tags": [
+                "street art"
+            ],
+            "thumbnail": "https:\/\/daioly.com\/wp-content\/uploads\/2020\/12\/thumbnail-Solve-800x450.jpg",
+            "releaseDate": "2020-12-01",
+            "shortDescription": "Daioly Video Solve",
+            "longDescription": "Daioly Video Solve"
+        }
+    ],
+    "series": [],
+    "tvSpecials": [],
+    "categories": [
+        {
+            "name": "Daioly",
+            "query": "Daioly AND Snow AND Solve AND street art AND Surf AND USA AND Venice Beach AND Wave AND Welcome",
+            "order": "most_recent"
+        }
+    ]
+}

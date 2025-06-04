@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Roku-Developer-Sample-Feed</title>
+    <link />
+    <description>Feed on video content for testing channel applications built on the Roku developer platform</description>
+    <language>en-us</language>
+    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
+    <image>
+      <title>Roku-Developer-Sample-Feed</title>
+      <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
+      <width>-1</width>
+      <height>-1</height>
+    </image>
+    <item>
+      <title>Live Gaming</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4</link>
+      <description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4">
+        <media:description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</media:description>
+        <media:keywords>episode 21, roku recommends, twitch</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/j5_.540x304.jpeg" />
+        <media:title>Live Gaming</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Let's Get Cookin'</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_5_paula_nw_050515.mp4</link>
+      <description>The Paula Deen Channel is your instant access to Paula Deenâ€™s new and hilarious cooking and lifestyle shows. Paula and her sons,  Jamie and Bobby, will cook up their delicious southern recipes and help you with hints and tips that make meal planning simple, affordable and easy.</description>
+      <pubDate>Thu, 21 May 2015 18:47:20 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_5_paula_nw_050515.mp4">
+        <media:description>The Paula Deen Channel is your instant access to Paula Deenâ€™s new and hilarious cooking and lifestyle shows. Paula and her sons,  Jamie and Bobby, will cook up their delicious southern recipes and help you with hints and tips that make meal planning simple, affordable and easy.</media:description>
+        <media:keywords>episode 18, paula deen, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/JME.540x304.jpeg" />
+        <media:title>Let's Get Cookin'</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Ideas Worth Spreading</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_1_ted_nw_050515.mp4</link>
+      <description>TED is a nonprofit devoted to Ideas Worth Spreading. On this channel, youâ€™ll find TEDTalks video to inspire, intrigue and stir the imagination from some of the worldâ€™s leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world.</description>
+      <pubDate>Thu, 21 May 2015 18:45:58 GMT</pubDate>
+      <guid isPermaLink="false">7405a8c101ee4c9da312c426e6067044</guid>
+      <media:content channels="2" bitrate="1328.0" duration="71" fileSize="11678262" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_1_ted_nw_050515.mp4">
+        <media:description>TED is a nonprofit devoted to Ideas Worth Spreading. On this channel, youâ€™ll find TEDTalks video to inspire, intrigue and stir the imagination from some of the worldâ€™s leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world.</media:description>
+        <media:keywords>episode 18, roku recommends, ted</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/ZCu.540x304.jpeg" />
+        <media:title>Ideas Worth Spreading</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Fanboys Unite</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/ep-126-seg-3_contv_v1-mo.mp4</link>
+      <description>ConTv is a channel that promises to let you "immerse yourself in the Comic Con experience." The channel offers Sci-fi and monster movies, cult classics, martial arts, hit television series from years past, and more.</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="63" fileSize="10344255" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/ep-126-seg-3_contv_v1-mo.mp4">
+        <media:description>ConTv is a channel that promises to let you "immerse yourself in the Comic Con experience." The channel offers Sci-fi and monster movies, cult classics, martial arts, hit television series from years past, and more.</media:description>
+        <media:keywords>contv, episode 30, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/7UL.540x304.jpeg" />
+        <media:title>Fanboys Unite</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Fight Pass</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_3_ufc_nw_051815.mp4</link>
+      <description>UFCTV gives you Live and On-Demand access to UFC events and classic fights. UFC (Ultimate Fighting Championship), is the worldâ€™s leading mixed martial arts sports association.</description>
+      <pubDate>Thu, 28 May 2015 17:01:28 GMT</pubDate>
+      <guid isPermaLink="false">37d290e03d894135b07c5e514cbad72d</guid>
+      <media:content channels="2" bitrate="1328.0" duration="52" fileSize="8421940" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_3_ufc_nw_051815.mp4">
+        <media:description>UFCTV gives you Live and On-Demand access to UFC events and classic fights. UFC (Ultimate Fighting Championship), is the worldâ€™s leading mixed martial arts sports association.</media:description>
+        <media:keywords>episode 19, fight pass, roku recommends, ufc</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/xUE.540x304.jpeg" />
+        <media:title>Fight Pass</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Giant Sharks And More</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/roku_119_segment_2_062315.mp4</link>
+      <description>The best collection of high-quality documentary programs anywhere. History, science, space, nature, adventure - XiveTV has it all. From sharks and war, to UFOs and black holes, and much more!</description>
+      <pubDate>Thu, 02 Jul 2015 17:28:21 GMT</pubDate>
+      <guid isPermaLink="false">42137542fa884b97a2a72cb356ae21b9</guid>
+      <media:content channels="2" bitrate="1328.0" duration="67" fileSize="10276365" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/roku_119_segment_2_062315.mp4">
+        <media:description>The best collection of high-quality documentary programs anywhere. History, science, space, nature, adventure - XiveTV has it all. From sharks and war, to UFOs and black holes, and much more!</media:description>
+        <media:keywords>episode 24, giant sharks and more, roku recommends, xive</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/cfa.540x304.jpeg" />
+        <media:title>Giant Sharks And More</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Get Your Game Face On</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/rr_ep_124_segment_2_080315_h264.mp4</link>
+      <description>Accessing your favorite live sports and shows from ESPN is now easier than ever with WatchESPN. WatchESPN brings you 24/7 live programming from your favorite ESPN networks, including: ESPN, ESPN2, ESPN3, ESPNU, SEC Network, SEC Network +, ESPNews, ESPN Deportes, Longhorn Network, ESPN Goal Line, ESPN Buzzer Beater, and ESPN Bases Loaded.</description>
+      <pubDate>Thu, 27 Aug 2015 17:32:45 GMT</pubDate>
+      <guid isPermaLink="false">7ec4711dc886464fa16001c1962904f8</guid>
+      <media:content channels="2" bitrate="1328.0" duration="48" fileSize="7287645" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/rr_ep_124_segment_2_080315_h264.mp4">
+        <media:description>Accessing your favorite live sports and shows from ESPN is now easier than ever with WatchESPN. WatchESPN brings you 24/7 live programming from your favorite ESPN networks, including: ESPN, ESPN2, ESPN3, ESPNU, SEC Network, SEC Network +, ESPNews, ESPN Deportes, Longhorn Network, ESPN Goal Line, ESPN Buzzer Beater, and ESPN Bases Loaded.</media:description>
+        <media:keywords>episode 32, roku recommends, watchespn</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/pUY.540x304.jpeg" />
+        <media:title>Get Your Game Face On</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Get Slimed</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/ep-123-seq-4-nick-alt_081215.mp4</link>
+      <description>Nickelodeon, the number-one entertainment brand for kids, is now available for free on Roku players and Roku TV models in the U.S.</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:45 GMT</pubDate>
+      <guid isPermaLink="false">2c4e8ea1ad2f4a8d9d244f5dd4cc47b6</guid>
+      <media:content channels="2" bitrate="1328.0" duration="52" fileSize="8449732" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/ep-123-seq-4-nick-alt_081215.mp4">
+        <media:description>Nickelodeon, the number-one entertainment brand for kids, is now available for free on Roku players and Roku TV models in the U.S.</media:description>
+        <media:keywords>episode 30, nick, nickelodeon, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/jVd.540x302.jpeg" />
+        <media:title>Get Slimed</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>College Sports</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/roku_ep_113_segment_3_college_insiders_042415.mp4</link>
+      <description>The Campus Insiders Roku channel provides college sports fans with videos covering college basketball and college football.</description>
+      <pubDate>Thu, 30 Apr 2015 17:31:21 GMT</pubDate>
+      <guid isPermaLink="false">a4d29aebf55e499c968ce02469859637</guid>
+      <media:content channels="2" bitrate="1328.0" duration="64" fileSize="10265790" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/roku_ep_113_segment_3_college_insiders_042415.mp4">
+        <media:description>The Campus Insiders Roku channel provides college sports fans with videos covering college basketball and college football.</media:description>
+        <media:keywords>c, campus insiders, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/7UV.540x304.jpeg" />
+        <media:title>College Sports</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Awesome YouTube Stars</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/rr_125_segment_4_080715.mp4</link>
+      <description>Welcome to the AwesomenessTV app... where we break all the rules! Our shows feature your favorite beauty gurus, advice for teens, daily celeb gossip, teen pop stars, performance sports, hilarious sketches and pranks, and YouTube Stars. Totally awesome shows... only here on AwesomenessTV</description>
+      <pubDate>Thu, 10 Sep 2015 17:44:42 GMT</pubDate>
+      <guid isPermaLink="false">bf2bfe826e3f4d61818306901d9ac985</guid>
+      <media:content channels="2" bitrate="1328.0" duration="56" fileSize="9158030" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/rr_125_segment_4_080715.mp4">
+        <media:description>Welcome to the AwesomenessTV app... where we break all the rules! Our shows feature your favorite beauty gurus, advice for teens, daily celeb gossip, teen pop stars, performance sports, hilarious sketches and pranks, and YouTube Stars. Totally awesome shows... only here on AwesomenessTV</media:description>
+        <media:keywords>a, episode 34, roku recommends, youtube</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/-Dr.540x304.jpeg" />
+        <media:title>Awesome YouTube Stars</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Sex&amp;Drugs&amp;Rock&amp;Roll</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/rr_ep21_segment_1_071515.mp4</link>
+      <description>Sex&amp;Drugs&amp;Rock&amp;Roll is an American comedy television series created by and starring Denis Leary. A 10-episode first season was ordered by FX, which premiered on July 16, 2015.</description>
+      <pubDate>Wed, 15 Jul 2015 23:09:37 GMT</pubDate>
+      <guid isPermaLink="false">7e5bf26049844cf494262b3297078372</guid>
+      <media:content channels="2" bitrate="1328.0" duration="92" fileSize="14803017" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/rr_ep21_segment_1_071515.mp4">
+        <media:description>Sex&amp;Drugs&amp;Rock&amp;Roll is an American comedy television series created by and starring Denis Leary. A 10-episode first season was ordered by FX, which premiered on July 16, 2015.</media:description>
+        <media:keywords>episode 26, fx now, fxnow, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/oSV.540x304.jpeg" />
+        <media:title>Sex&amp;Drugs&amp;Rock&amp;Roll</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Puppies and Kittens</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/rr_123_segment_1_072715.mp4</link>
+      <description>Puppies and Kittens</description>
+      <pubDate>Thu, 30 Jul 2015 20:43:47 GMT</pubDate>
+      <guid isPermaLink="false">f8de8daf2ba34aeb90edc55b2d380c3f</guid>
+      <media:content channels="2" bitrate="1328.0" duration="83" fileSize="13676817" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/rr_123_segment_1_072715.mp4">
+        <media:description>Puppies and Kittens</media:description>
+        <media:keywords>episode 28, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/ZLh.540x304.jpeg" />
+        <media:title>Puppies and Kittens</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>The Affair Season 2</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/the-affair-s2-tune-in-post-premiere---roku-with-dominic-read.mp4</link>
+      <description>The psychological effects of an affair between a married waitress at a Hamptons diner and a teacher who spends his summer at his in-lawsâ€™ estate on the island. Available to watch on Showtime Anytime.</description>
+      <pubDate>Thu, 15 Oct 2015 18:02:34 GMT</pubDate>
+      <guid isPermaLink="false">e92ddcb71f154e6897f5900471c54992</guid>
+      <media:content channels="2" bitrate="450.0" duration="37" fileSize="2121913" framerate="23.976" height="360" type="video/mp4" width="640" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/the-affair-s2-tune-in-post-premiere---roku-with-dominic-read.mp4">
+        <media:description>The psychological effects of an affair between a married waitress at a Hamptons diner and a teacher who spends his summer at his in-lawsâ€™ estate on the island. Available to watch on Showtime Anytime.</media:description>
+        <media:keywords>episode 39, roku recommends, showtime, the affair</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/aUf.540x304.jpeg" />
+        <media:title>The Affair Season 2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Cult Scary Movies</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/roku-recommends_new.mp4</link>
+      <description>The Cult Movie network has it all, 24 hours a day, seven days a week. Watch the cult films you can't find anywhere else on television - if you're into that sort of thing.</description>
+      <pubDate>Thu, 05 Nov 2015 16:18:19 GMT</pubDate>
+      <guid isPermaLink="false">69ce40b268fa4766aa1612131aa74898</guid>
+      <media:content channels="2" bitrate="450.0" duration="96" fileSize="5489319" framerate="23.976" height="360" type="video/mp4" width="640" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/roku-recommends_new.mp4">
+        <media:description>The Cult Movie network has it all, 24 hours a day, seven days a week. Watch the cult films you can't find anywhere else on television - if you're into that sort of thing.</media:description>
+        <media:keywords>episode 42, frightpix, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/thp.540x302.jpeg" />
+        <media:title>Cult Scary Movies</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>StateXState</title>
+      <link>https://devtools.web.roku.com/samples/video/rr/pta.mp4</link>
+      <description>PTA is dedicated to travel and culture documentaries that highlight the hidden gems all around our country. It is a beautifully designed channel and theyâ€™ve loaded it with several original series â€“ each with a distinctive voice and travel theme.</description>
+      <pubDate>Thu, 05 Nov 2015 16:51:15 GMT</pubDate>
+      <guid isPermaLink="false">66740ace254b40b29ce77eae0afb38c4</guid>
+      <media:content channels="2" bitrate="450.0" duration="180" fileSize="10264516" framerate="23.976" height="360" type="video/mp4" width="640" isDefault="true" url="https://devtools.web.roku.com/samples/video/rr/pta.mp4">
+        <media:description>PTA is dedicated to travel and culture documentaries that highlight the hidden gems all around our country. It is a beautifully designed channel and theyâ€™ve loaded it with several original series â€“ each with a distinctive voice and travel theme.</media:description>
+        <media:keywords>episode 42, pta, roku recommends</media:keywords>
+        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/5Q5.540x304.jpeg" />
+        <media:title>StateXState</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>

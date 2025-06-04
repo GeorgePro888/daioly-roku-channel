@@ -23,7 +23,7 @@ sub Init()
     "https://daioly.com/wp-json/tv/roku/"
   
   ]
-  makeRequest(URLs,"Parser")
+  makeRequest(URLs,"JsonParser")
 
   'Create observer events for when content is loaded
   m.top.observeField("visible", "onVisibleChange")
